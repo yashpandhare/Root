@@ -1,4 +1,8 @@
 ABC
+<<<<<<< HEAD
 
 
 Modified abc
+=======
+ modified data abc
+>>>>>>> branch2
